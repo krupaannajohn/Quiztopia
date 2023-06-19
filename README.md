@@ -17,6 +17,7 @@ The program additionally defines various user-defined functions within it namely
 5) _main_: The main function contains all the function calls of the aforementioned functions within it. It also contains the menu that assists the user in navigating through the application. It enlists different categories namely sports, entertainment, music, monuments and world history. The data for these categories are accessed from their respective CSV files which are traversed using a for loop that iterates through each row of questions, answers, options and explanations.
 
 The application can be accessed and navigated using the steps:
+
 Step 1: Entire the desired category number as mentioned in the main menu
 ![image](https://github.com/krupaannajohn/Quiztopia-CAC/assets/118895577/9d62d6ec-5d8e-43e8-b47c-8894c050b5fd)
 
