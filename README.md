@@ -1,4 +1,4 @@
-# Quiztopia-CAC
+# Quiztopia
 Quiztopia is an interactive user-friendly multiple choice question-based quiz application that allows users to play quizzes spanning genres such as entertainment, history, monuments, music and sports. The user may choose to play rounds in one or more categories depending upon the choice inputted where each category contains five questions with options and explanations provided for the answers. The sports quiz contains questions that span various sports events and topics, the entertainment quiz deals with questions from the latest happenings in the entertainment world, the monuments quiz and the history quiz deal with various monuments and occurrences throughout history while the music quiz enables music lovers to put their knowledge to the test.
 Quiztopia was created with the sole purpose of playing fun and refreshing quizzes that are less time-consuming but indulging and knowledge-inducing at the same time.
 
