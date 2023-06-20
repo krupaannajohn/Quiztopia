@@ -36,19 +36,19 @@ Exiting from Quiz: ![image](https://github.com/krupaannajohn/Quiztopia-CAC/asset
 
 __Output Screenshots include:__
 
-Category 1: ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/942f037a-7661-43cd-b120-6a1c677ff402)
+Category 1 (Sports): ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/942f037a-7661-43cd-b120-6a1c677ff402)
 Score: ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/fec78c12-2adf-4688-a3b8-9cb6af18ab4e)
 
-Category 2: ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/76b11f3c-06f7-4f2f-9b33-7eba85154755)
+Category 2 (Entertainment): ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/76b11f3c-06f7-4f2f-9b33-7eba85154755)
 Score: ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/05053587-43b7-4c9d-bec3-4fcd98cf1779)
 
-Category 3: ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/7363f6aa-030b-4e9e-b02e-5d14e3a23484)
+Category 3 (Music): ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/7363f6aa-030b-4e9e-b02e-5d14e3a23484)
 Score: ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/bdd70ee2-45b3-4ef0-a8b8-00fa4b5c0e40)
 
-Category 4: ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/cf966a41-804e-45ea-a95d-95353a511798)
+Category 4 (Monuments of the World): ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/cf966a41-804e-45ea-a95d-95353a511798)
 Score: ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/004f80f6-c66e-4ccd-9148-ebb0f1bb5896)
 
-Category 5: ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/28267496-62b3-4110-bc3e-665e91cfe8de)
+Category 5 (World History): ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/28267496-62b3-4110-bc3e-665e91cfe8de)
 Score: ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/b5513a87-b58b-41a6-8494-fdd40787fe4c)
 
 Invalid option: ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/0984a798-faa0-4532-ba63-bb9bb7810295)
