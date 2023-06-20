@@ -1,10 +1,10 @@
 # Quiztopia-CAC
-Quiztopia is an interactive user-friendly multiple choice question-based quiz application that allows users to play quizzes spanning genres such as entertainment, history, monuments, music and sports. The user may choose to play one or more categories depending upon the choice inputted where each category contains five questions with options and explanations provided for the answers. The sports quiz contains questions that span various sports events and topics, the entertainment quiz deals with questions from the latest happenings in the entertainment world, the monuments quiz and the history quiz deal with various monuments and occurrences throughout history while the music quiz enables music lovers put their knowledge to the test.
-Quiztopia was created with the sole purpose of playing fun and refreshing quizzes that do not pressure participants and are less time-consuming but indulging and knowledge-inducing at the same time.
+Quiztopia is an interactive user-friendly multiple choice question-based quiz application that allows users to play quizzes spanning genres such as entertainment, history, monuments, music and sports. The user may choose to play rounds in one or more categories depending upon the choice inputted where each category contains five questions with options and explanations provided for the answers. The sports quiz contains questions that span various sports events and topics, the entertainment quiz deals with questions from the latest happenings in the entertainment world, the monuments quiz and the history quiz deal with various monuments and occurrences throughout history while the music quiz enables music lovers to put their knowledge to the test.
+Quiztopia was created with the sole purpose of playing fun and refreshing quizzes that are less time-consuming but indulging and knowledge-inducing at the same time.
 
 The backend of the quiz can be broadly classified as an amalgamation of various class methods, user-defined functions, loops, and conditional statements.
 The program has defined a class __'quizGame'__ that contains the instances question, answer, options and explanation. These instances represent the question for each quiz category along with their respective answers, options and explanations. These instances are initialised using the init method.
-The program additionally defines various user-defined functions within it namely:
+The program additionally defines various user-defined functions within it, namely:
 
 1) _quizScore_: This function takes the question, answer, explanation and the user input as parameters and checks whether the answers inputted by the user align with the answers in the CSV file. On this basis, the program classifies the answer as right or wrong and returns the explanation and score.
 
@@ -24,7 +24,7 @@ Step 1: Entire the desired category number as mentioned in the main menu
 Step 2: Attempt the questions of the chosen category by inputting the most suitable option
 ![image](https://github.com/krupaannajohn/Quiztopia-CAC/assets/118895577/e8df0de5-1bc3-4283-9b35-ea5cea7791b5)
 
-Step 3: Once the category has been completed, the final score will be displayed to the user.
+Step 3: Once the quiz of the particular category has been completed, the final score will be displayed to the user.
 
 ![image](https://github.com/krupaannajohn/Quiztopia-CAC/assets/118895577/d4077527-8085-4548-bd6f-432ad56cf626)
 
