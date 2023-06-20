@@ -56,4 +56,6 @@ Invalid option: ![image](https://github.com/krupaannajohn/Quiztopia/assets/11889
 Exit from Quiz: ![image](https://github.com/krupaannajohn/Quiztopia/assets/118895577/98bfd36c-92c8-4fc3-8be8-197fd70faa05)
 
 The program is run and maintained using Python Jupyter Notebook and uses modules such as Pandas. Each row is treated as a component of a list and is accessed in like manner.
+
+Storing the data in the CSV file allows file storage and effective file handling as it does not affect the main data even if there are issues with the Python file. This enhances productivity and saves time and energy as well.
 Quiztopia thus allows various functionalities such as navigating through the different categories of the Quiz along with additionally storing and accessing the data in CSV files, thus allowing additional file storage for easier access.
